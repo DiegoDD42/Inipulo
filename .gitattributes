@@ -1,0 +1,6 @@
+# Define o comportamento padrão para arquivos de texto (conversão automática)
+* text=auto
+
+# Garanta que arquivos Markdown e scripts mantenham LF
+*.md text eol=lf
+*.cs text eol=lf

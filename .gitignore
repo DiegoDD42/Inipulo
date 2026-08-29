@@ -1,0 +1,61 @@
+# ==========================================
+# Unity - Pastas e Arquivos Gerados
+# ==========================================
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# ==========================================
+# Projetos e Configurações de IDEs / Editores
+# ==========================================
+# Visual Studio
+.vs/
+/*.csproj
+/*.unityproj
+/*.sln
+/*.suo
+/*.user
+/*.userprefs
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.opendb
+/*.idb
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ==========================================
+# Arquivos de Sistema Operacional
+# ==========================================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ==========================================
+# Pacotes da Unity e Asset Store
+# ==========================================
+*.unitypackage
+*.aab
+*.apk
+*.ipa
+
+# ==========================================
+# Crash Reports e Logs
+# ==========================================
+sysinfo.txt
+*.stackdump

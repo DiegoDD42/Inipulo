@@ -118,5 +118,7 @@
 
 ## *13\. Apêndice*
 
-* Referências: Doodle Jump como principal inspiração  
+* Referências: Doodle Jump como principal inspiração, o mapa se movimenta somente verticalmente e as plataformas como mostradas abaixo devem ser utilizadas para subir o mapa
 * Anexos: 
+[Exemplo de mapa do Doodle Jump](docs/anexos/image1.png)
+[Mecânicas detalhadas na imagem](docs/anexos/image2.png)

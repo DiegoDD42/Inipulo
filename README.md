@@ -127,7 +127,7 @@
 
 ### Créditos dos Assets (Entrega 2)
 
-**Cenário:** [Arte de Saurabhkgp (via itch.io](https://saurabhkgp.itch.io/pixel-art-forest-background-simple-seamless-parallax-ready-for-2d-platformer-s)
-**Interface de Usuário:** [Arte por Kenney (via itch.io) ](https://kenney-assets.itch.io/ui-pack)
-**Personagem Principal:** [Arte por Rainloaf (via itch.io)](https://rainloaf.itch.io/capybara-sprite-sheet)
-**Plataformas e Objetos:** [Arte por Kenney (via itch.io)](https://kenney.nl/assets/pixel-platformer)
+* **Cenário:** [Arte de Saurabhkgp (via itch.io](https://saurabhkgp.itch.io/pixel-art-forest-background-simple-seamless-parallax-ready-for-2d-platformer-s)
+* **Interface de Usuário:** [Arte por Kenney (via itch.io) ](https://kenney-assets.itch.io/ui-pack)
+* **Personagem Principal:** [Arte por Rainloaf (via itch.io)](https://rainloaf.itch.io/capybara-sprite-sheet)
+* **Plataformas e Objetos:** [Arte por Kenney (via itch.io)](https://kenney.nl/assets/pixel-platformer)
